@@ -1,0 +1,7 @@
+C:\Users\hocke\source\repos\FEiSystems\FEiSystems\bin\Debug\FEiSystems.exe.config
+C:\Users\hocke\source\repos\FEiSystems\FEiSystems\bin\Debug\FEiSystems.exe
+C:\Users\hocke\source\repos\FEiSystems\FEiSystems\bin\Debug\FEiSystems.pdb
+C:\Users\hocke\source\repos\FEiSystems\FEiSystems\obj\Debug\FEiSystems.csprojResolveAssemblyReference.cache
+C:\Users\hocke\source\repos\FEiSystems\FEiSystems\obj\Debug\FEiSystems.csproj.CoreCompileInputs.cache
+C:\Users\hocke\source\repos\FEiSystems\FEiSystems\obj\Debug\FEiSystems.exe
+C:\Users\hocke\source\repos\FEiSystems\FEiSystems\obj\Debug\FEiSystems.pdb
